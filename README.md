@@ -1,26 +1,22 @@
 <div align="center">
 
-<h2>yagnik patel</h2>
+# Yagnik Patel!!
 
-<sub>engineering &nbsp;·&nbsp; design &nbsp;·&nbsp; visuals</sub>
+<sub>engineering · design · visuals</sub>
 
-<br><br>
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=3200&pause=1800&color=8A8A8A&center=true&vCenter=true&repeat=true&width=460&height=24&lines=i+like+making+ideas+visible.;curious+about+how+things+work.;even+more+curious+about+how+they+feel."
+alt="typing animation"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=3000&pause=1600&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=20&lines=making+ideas+visible.;figuring+things+out.;creating+whatever+feels+interesting." alt="" />
+i study engineering.
 
-<br><br>
+i'm interested in the things around it —  
+**design, technology, photography, film, and ideas.**
 
-engineering student interested in  
-**technology, design, music, film & ideas.**
+not everything needs to become a project.  
+sometimes, being curious is enough.
 
-<br><br>
-
-<a href="https://x.com/theiYags">𝕏</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yagnik-n-patel">linkedin</a>
-
-<br><br>
-
-<sub><i>somehow, it works.</i></sub>
+<sub>somehow, it works..</sub>
 
 </div>
