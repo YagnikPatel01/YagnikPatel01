@@ -1,42 +1,42 @@
 <div align="center">
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:141414&height=140&fontColor=C9A227&animation=fadeIn" width="100%"/>
+<br><br><br><br>
 
-<br/><br/>
+# yagnik patel
 
-# Yagnik Patel
+<sub>engineering · design · visuals</sub>
 
-<sub>writer · filmmaker · engineer, technically</sub>
+<br><br>
 
-<br/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=3200&pause=1800&color=8A8A8A&center=true&vCenter=true&repeat=true&width=460&height=24&lines=i+like+making+ideas+visible.;curious+about+how+things+work.;even+more+curious+about+how+they+feel."
+alt="typing animation"
+/>
 
-[![type](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=1500&color=C9A227&center=true&vCenter=true&width=460&lines=a+quiet+place+to+write+and+think;essays.+films.+everything+in+between.)](https://yagnikpatel22.github.io)
+<br><br><br>
 
-<br/><br/>
+i study engineering.
 
-</div>
+i'm interested in the things around it —
+**design, technology, photography, film, and ideas.**
 
-Essays on India, culture, and whatever else earns a page — alongside a running log of films and a small collection of quotes worth keeping. No noise. No feed. Just pages, written slowly.
+<br><br>
 
-<br/>
+not everything needs to become a project.
+sometimes, being curious is enough.
 
-<div align="center">
+<br><br><br>
 
-**[yagnikpatel22.github.io →](https://yagnikpatel22.github.io)**
+<sub>
+<a href="https://x.com/theiYags">x</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yagnik-n-patel">linkedin</a>
+</sub>
 
-</div>
+<br><br><br><br>
 
-<br/><br/>
+<sub>curious by default.</sub>
 
-<div align="center">
-<sub>essays · films · quotes</sub>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:0A0A0A&height=90&animation=fadeIn" width="100%"/>
+<br><br><br>
 
 </div>
