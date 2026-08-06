@@ -1,58 +1,48 @@
 <div align="center">
 
-# hey, i'm yagnik. 👋
+# YAGNIK.
 
-### engineering things. designing ideas. collecting good frames.
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=engineer+in+progress.;creative+by+default.;code+%C3%97+design+%C3%97+cinema;probably+building+something." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&pause=1400&color=888888&center=true&vCenter=true&width=550&lines=engineering%2C+but+make+it+creative.;designing+%C2%B7+exploring+%C2%B7+creating;occasionally+turning+ideas+into+things." />
 
 <br>
 
-`code`　×　`design`　×　`cinema`
+**engineering × design × visual storytelling**
+
+<br><br>
+
+<sub>somewhere between logic and creativity.</sub>
 
 </div>
 
+<br>
+
 ---
 
-### 𖹭 currently
+### about
 
-```text
-building       → things I find interesting
-learning       → C++ / DSA / development
-exploring      → design / filmmaking / tech
-creating       → whatever feels worth making
-```
+engineering student with a thing for
+**design, technology, cinematography & good ideas.**
 
-### ⟡ toolbox
+I like experimenting, creating things
+and figuring things out along the way.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,figma&theme=dark" />
-</p>
+<br>
 
-### ◌ a little more
+### lately
 
-I enjoy the space where **engineering meets creativity**.
+↳ exploring design & visual storytelling
+↳ experimenting with filmmaking
+↳ learning things purely out of curiosity
+↳ turning random ideas into actual projects
 
-Sometimes that's code.
-Sometimes it's a design.
-Sometimes it's a cinematic frame.
-
-and sometimes...
-
-```cpp
-while (alive) {
-    learn();
-    build();
-    create();
-}
-```
+<br>
 
 <div align="center">
 
-### find me somewhere on the internet.
+### elsewhere
 
 <a href="https://www.linkedin.com/in/yagnik-n-patel">
-  <img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
@@ -61,6 +51,6 @@ while (alive) {
 
 <br><br>
 
-<sub>still learning · still building · still creating.</sub>
+<sub>curious by default.</sub>
 
 </div>
