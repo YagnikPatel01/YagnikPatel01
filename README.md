@@ -1,6 +1,6 @@
 <div align="center">
 
-# yagnik patel
+# Yagnik Patel
 
 <sub>engineering · design · visuals</sub>
 
@@ -12,7 +12,7 @@ alt="typing animation"
 i study engineering.
 
 i'm interested in the things around it —
-**design, technology, photography, film, and ideas.**
+**design, technology, music, film, and ideas.**
 
 not everything needs to become a project.
 sometimes, being curious is enough.
@@ -23,6 +23,7 @@ sometimes, being curious is enough.
 <a href="https://www.linkedin.com/in/yagnik-n-patel">linkedin</a>
 </sub>
 
-<sub>curious by default.</sub>
+
+<sub>somehow, it works..</sub>
 
 </div>
