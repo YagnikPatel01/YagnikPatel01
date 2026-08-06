@@ -12,7 +12,7 @@ alt="typing animation"
 i study engineering.
 
 i'm interested in the things around it —  
-**design, technology, photography, film, and ideas.**
+**design, technology, music, film, and ideas.**
 
 not everything needs to become a project.  
 sometimes, being curious is enough.
