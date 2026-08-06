@@ -17,13 +17,19 @@ i'm interested in the things around it —
 not everything needs to become a project.
 sometimes, being curious is enough.
 
-<sub>
-<a href="https://x.com/theiYags">x</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yagnik-n-patel">linkedin</a>
-</sub>
+<p align="center">
+  <a href="https://x.com/theiYags">
+    <img src="https://cdn.simpleicons.org/x/888888" width="17" height="17" alt="x" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yagnik-n-patel">
+    <img src="https://cdn.simpleicons.org/linkedin/888888" width="17" height="17" alt="linkedin" />
+  </a>
+</p>
 
 
-<sub>somehow, it works..</sub>
+<p align="center">
+  <sub>somehow, it works.</sub>
+</p>
 
 </div>
