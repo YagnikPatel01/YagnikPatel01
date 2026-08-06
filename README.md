@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yagnik Patel!!
+# Yagnik Patel!
 
 <sub>engineering · design · visuals</sub>
 
